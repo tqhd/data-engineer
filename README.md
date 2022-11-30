@@ -11,11 +11,19 @@
 ## Task 1
 Given a string  consisting only of digits 0-9, `,` and `.`
 
+Output code
+
+![image](https://user-images.githubusercontent.com/32083976/204738635-e71ec29e-0a02-4156-8114-acdc3e0c2ce4.png)
+
 _For detail code [here](https://github.com/tqhd/data-engineer/blob/main/test-case-lemonilo/task_1.py)_
 
 
 ## Task 2
 Given an array of integer, create a function that will return the position of a number inside an array
+
+Output Code
+
+![image](https://user-images.githubusercontent.com/32083976/204738772-7e575204-333e-43ad-9f09-d2a9d20c26ae.png)
 
 _For detail code [here](https://github.com/tqhd/data-engineer/blob/main/test-case-lemonilo/task_2.py)_
 
@@ -27,6 +35,9 @@ If n is even and in the inclusive range of 2 to 5, print World
 If n is even and in the inclusive range of 6 to 20, print Hello
 If n is even and greater than 20, print World
 ```
+Output Code
+
+![image](https://user-images.githubusercontent.com/32083976/204738934-14f9212e-90ce-4376-9116-b7753eccb36c.png)
 
 _For detail code [here](https://github.com/tqhd/data-engineer/blob/main/test-case-lemonilo/task_3.py)_
 
@@ -71,7 +82,10 @@ python task_4.py
 _Wait until done_
 
 7. Check the csv file generated from the code in the directory where the python file is stored
-8. Done.
+8. Output code scrape_data.csv
+
+![image](https://user-images.githubusercontent.com/32083976/204738144-a5025251-8157-452b-b010-f1252fc9741d.png)
+
 
 <!-- CONTACT -->
 ## Contact
